@@ -1,0 +1,74 @@
+{
+    "_readme": [
+        "This file specifies the exact versions of all installed packages",
+        "It is generated based on composer.json and the packages installed",
+        "Do not manually edit this file!"
+    ],
+    "content-hash": "long-hash-string-for-content",
+    "packages": [
+        {
+            "name": "symfony/console",
+            "version": "v5.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/console.git",
+                "reference": "commit-hash"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/console/zipball/commit-hash",
+                "reference": "commit-hash",
+                "shasum": "..."
+            },
+            "require": {
+                "php": "^7.4",
+                "symfony/polyfill-mbstring": "^1.23"
+            }
+        },
+        {
+            "name": "monolog/monolog",
+            "version": "2.3.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Seldaek/monolog.git",
+                "reference": "commit-hash"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/commit-hash",
+                "reference": "commit-hash",
+                "shasum": "..."
+            },
+            "require": {
+                "php": "^5.3.2"
+            }
+        },
+        {
+            "name": "guzzlehttp/guzzle",
+            "version": "2.4.4", 
+            "source": {
+                "type": "git",
+                "url": "https://github.com/guzzle/guzzle.git",
+                "reference": "commit-hash"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/commit-hash",
+                "reference": "commit-hash",
+                "shasum": "..."
+            },
+            "require": {
+                "php": "^7.4"
+            }
+        },
+        // Other installed packages and their versions, sources, and dependencies
+    ],
+    "aliases": {
+        // Aliases for versions, e.g., "vendor/package1": "1.0.x-dev"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "platform": {
+        // Platform information (PHP, extensions, etc.)
+    }
+}

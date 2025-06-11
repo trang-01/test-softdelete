@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (5.5.0):
+    - Alamofire/Session (= 5.5.0)
+  - Alamofire/Session (5.5.0)
+  - Kingfisher (7.0.0)
+  - SwiftyJSON (4.0.0)
+  - Firebase/Auth (8.0)
+  - SnapKit (5.0)
+  - RealmSwitft (10.7.0)
+  - Charts (4.0)
+  - Moya (14.0)
+  - RxSwift (6.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5.0)
+  - Kingfisher (~> 7.0)
+  - SwiftyJSON (~> 4.0)
+  - Firebase/Auth (~> 8.0)
+  - Realm (~> 10.7.0)
+  - Charts (~> 4.0.0)
+  - Moya (~> 14.0.0)
+  - RxSwift (~> 6.0.0)

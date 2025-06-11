@@ -1,0 +1,35 @@
+[[package]]
+name = "requests"
+version = "2.26.0"
+description = "Python HTTP for Humans."
+category = "main"
+optional = false
+python-versions = "*"
+platform = "*"
+dependencies = [
+    "certifi (>=2017.4.17)",
+    "charset-normalizer (>=2.0.0)",
+    "idna (>=2.10)",
+    "urllib3 (>=1.25.10,<1.27)",
+]
+
+[[package]]
+name = "flask"
+version = "2.0.2"
+description = "A simple framework for building complex web applications."
+category = "main"
+optional = false
+python-versions = "*"
+platform = "*"
+dependencies = [
+    "itsdangerous (>=2.0)",
+    "click (>=7.1.2)",
+    "werkzeug (>=2.0)"
+]
+
+# ... other dependency entries for your project ...
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "long-hash-string-for-content"

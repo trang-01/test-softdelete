@@ -1,0 +1,36 @@
+{
+    "version": 3,
+    "targets": {
+      ".NETCoreApp,Version=v4.7.2": {
+        "Newtonsoft.Json/5.0.5": {},
+        "Microsoft.Extensions.Logging/3.1.10": {},
+        "Microsoft.Extensions.DependencyInjection/5.0.2": {},
+        "Microsoft.Win32.SystemEvents/5.0.0": {},
+        "Microsoft.Extensions.Http/5.0.0": {}
+      }
+    },
+    "libraries": {
+      "Newtonsoft.Json/5.0.5": {
+        "sha512": "..."
+        // Other metadata about Newtonsoft.Json package
+      },
+      "Microsoft.Extensions.Logging/3.1.10": {
+        "sha512": "..."
+        // Other metadata about Microsoft.Extensions.Logging package
+      },
+      "Microsoft.Extensions.DependencyInjection/5.0.2": {
+        "sha512": "..."
+        // Other metadata about Microsoft.Extensions.DependencyInjection package
+      },
+      "Microsoft.Win32.SystemEvents/5.0.0": {
+        "sha512": "..."
+        // Other metadata about Microsoft.Win32.SystemEvents package
+      },
+      "Microsoft.Extensions.Http/5.0.0": {
+        "sha512": "..."
+        // Other metadata about Microsoft.Extensions.Http package
+      }
+      // Other packages and their metadata
+    }
+  }
+  
