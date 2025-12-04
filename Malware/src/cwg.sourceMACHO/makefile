@@ -1,1 +1,0 @@
-g++ -Wall -Wextra -Bstatic -o sourceMACHO main.cpp -lcurl -Bstatic -lm -Bstatic
