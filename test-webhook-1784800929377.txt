@@ -1,3 +1,0 @@
-MDSSC webhook test
-Timestamp: 1784800929377
-Repo: test-softdelete
